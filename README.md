@@ -1,6 +1,6 @@
 # CoinGecko 101
 
-## 1. 获取代币基本信息和交易历史
+## 1. basic_info
 
 ### 案例研究：Ethereum
 
