@@ -6,8 +6,13 @@
 
 在本节中，我们将探索如何使用 CoinGecko API 获取 Ethereum 的基本信息及其交易历史。
 
-## 2. xxxx
+## 2. get_cat
+获取不同赛道的Token
+案例研究：Binance Launchpool & Launchpad
 
-（之后将更新更多案例和信息）
+## 3. xxxx
+
+
+
 
 _本仓库旨在提供知识分享，不构成任何投资建议。请在进行投资决策时谨慎行事。_
