@@ -1,5 +1,10 @@
 # CoinGecko 101
 
+## 环境变量配置
+
+请在项目根目录下创建一个名为 `.env` 的文件，并添加以下内容：
+`COINGECKO_API_KEY=`
+
 ## 1. basic_info
 
 ### 案例研究：Ethereum
